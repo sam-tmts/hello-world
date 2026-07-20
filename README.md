@@ -8,7 +8,7 @@ So how do you do that. How do you add colour to something that folds to nothing?
 
 The answer is to construct an opening which professes something greater than it really is. A kind 
 of high-school philosophy consideration on existentialism. Dress it in a little mark-down to give 
-it some technical chops and your done.
+it some technical chops and you're done.
 
 README enhanced. Achievement unlocked. 
 
